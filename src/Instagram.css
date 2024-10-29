@@ -91,6 +91,13 @@
   align-items: center;
 }
 
+.post-header .dot-icon {
+  margin-left: auto; /* Pushes the icon to the far right */
+  cursor: pointer; /* Optional: change cursor to pointer */
+  width: 20px; /* Adjust size if needed */
+  height: 20px; /* Adjust size if needed */
+}
+
 .post-user {
   display: flex;
   align-items: center;

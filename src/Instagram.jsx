@@ -37,6 +37,7 @@ const Instagram = () => {
             <img src="/User-icon.png" alt="User Icon" className="user-circle-icon" />
             <strong>YangMinJae</strong>
             <span>1시간</span>
+            <img src="/Dot-icon.png" alt="Options" className="dot-icon" />
           </div>
           <img src="/instagram-logo.png" alt="Post Content" className="post-image" />
           <div className="post-icons">
